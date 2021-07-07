@@ -6,7 +6,7 @@ function Navbar() {
             <div>
                <nav className="  text-light navbar navbar-expand-sm navbar-light   text-light mb-5">
                    <div className="container">
-                     <Link className="navbar-brand text-light" to="/">REACT Movie App </Link>
+                     <Link className="navbar-brand text-light" to="/react-hooks-checkpoint/movies">REACT Movie App </Link>
                      <button className="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
                          aria-expanded="false" aria-label="Toggle navigation">
                            <span className="navbar-toggler-icon"></span>
@@ -14,7 +14,7 @@ function Navbar() {
                      <div className="collapse navbar-collapse" id="collapsibleNavId">
                            <ul className="navbar-nav mr-auto mt-2 mt-lg-0 ">
                                  <li className="nav-item active">
-                                       <Link className="nav-link text-light " to="/movies">Home  </Link>
+                                       <Link className="nav-link text-light " to="/react-hooks-checkpoint/movies">Home  </Link>
                                  </li>
                            </ul>
                      </div>
