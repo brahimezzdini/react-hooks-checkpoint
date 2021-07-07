@@ -14,7 +14,7 @@ function Home() {
     return (
         <div className='container my-5'>
             <h1 className="app-title">React Router Checkpoint (Movies App +) </h1>
-            <a href="https://github.com/brahimezzdini/React-Router-Checkpoint.git"><h3 style={{textAlign:'center',marginTop:'20px'}}>Show source code on github</h3></a>
+            <a href="https://github.com/brahimezzdini/React-Hooks-Checkpoint.git"><h3 style={{textAlign:'center',marginTop:'20px'}}>Show source code on github</h3></a>
            
             <SearchMovie
             setSearchMovie={setSearchMovie}
