@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hooks-checkpoint/static/css/main.0b5eb599.chunk.css",
-    "main.js": "/react-hooks-checkpoint/static/js/main.e95c80b8.chunk.js",
-    "main.js.map": "/react-hooks-checkpoint/static/js/main.e95c80b8.chunk.js.map",
-    "runtime-main.js": "/react-hooks-checkpoint/static/js/runtime-main.fe0d8d75.js",
-    "runtime-main.js.map": "/react-hooks-checkpoint/static/js/runtime-main.fe0d8d75.js.map",
-    "static/js/2.071cde88.chunk.js": "/react-hooks-checkpoint/static/js/2.071cde88.chunk.js",
-    "static/js/2.071cde88.chunk.js.map": "/react-hooks-checkpoint/static/js/2.071cde88.chunk.js.map",
-    "static/js/3.4e773900.chunk.js": "/react-hooks-checkpoint/static/js/3.4e773900.chunk.js",
-    "static/js/3.4e773900.chunk.js.map": "/react-hooks-checkpoint/static/js/3.4e773900.chunk.js.map",
+    "main.css": "/react-hooks-checkpoint/static/css/main.dd7f18d1.chunk.css",
+    "main.js": "/react-hooks-checkpoint/static/js/main.ed758ae7.chunk.js",
+    "main.js.map": "/react-hooks-checkpoint/static/js/main.ed758ae7.chunk.js.map",
+    "runtime-main.js": "/react-hooks-checkpoint/static/js/runtime-main.cfb95a29.js",
+    "runtime-main.js.map": "/react-hooks-checkpoint/static/js/runtime-main.cfb95a29.js.map",
+    "static/js/2.002d28fe.chunk.js": "/react-hooks-checkpoint/static/js/2.002d28fe.chunk.js",
+    "static/js/2.002d28fe.chunk.js.map": "/react-hooks-checkpoint/static/js/2.002d28fe.chunk.js.map",
+    "static/js/3.abc98e02.chunk.js": "/react-hooks-checkpoint/static/js/3.abc98e02.chunk.js",
+    "static/js/3.abc98e02.chunk.js.map": "/react-hooks-checkpoint/static/js/3.abc98e02.chunk.js.map",
     "index.html": "/react-hooks-checkpoint/index.html",
-    "static/css/main.0b5eb599.chunk.css.map": "/react-hooks-checkpoint/static/css/main.0b5eb599.chunk.css.map",
-    "static/js/2.071cde88.chunk.js.LICENSE.txt": "/react-hooks-checkpoint/static/js/2.071cde88.chunk.js.LICENSE.txt"
+    "static/css/main.dd7f18d1.chunk.css.map": "/react-hooks-checkpoint/static/css/main.dd7f18d1.chunk.css.map",
+    "static/js/2.002d28fe.chunk.js.LICENSE.txt": "/react-hooks-checkpoint/static/js/2.002d28fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe0d8d75.js",
-    "static/js/2.071cde88.chunk.js",
-    "static/css/main.0b5eb599.chunk.css",
-    "static/js/main.e95c80b8.chunk.js"
+    "static/js/runtime-main.cfb95a29.js",
+    "static/js/2.002d28fe.chunk.js",
+    "static/css/main.dd7f18d1.chunk.css",
+    "static/js/main.ed758ae7.chunk.js"
   ]
 }
