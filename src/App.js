@@ -19,7 +19,7 @@ function App() {
        </Switch>
        </div>
       </div>
-      </r>
+      </>
     );
 }
 
