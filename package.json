@@ -1,7 +1,7 @@
 {
   "name": "react-hooks-chekpoint",
   "version": "0.1.0",
-  "homepage": "https://brahimezzdini.github.io",
+  "homepage": "https://brahimezzdini.github.io/react-hooks-checkpoint",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
