@@ -14,7 +14,7 @@ function Navbar() {
                      <div className="collapse navbar-collapse" id="collapsibleNavId">
                            <ul className="navbar-nav mr-auto mt-2 mt-lg-0 ">
                                  <li className="nav-item active">
-                                       <Link className="nav-link text-light " to="https://brahimezzdini.github.io/react-hooks-checkpoint/movies">Home  </Link>
+                                       <Link className="nav-link text-light " to="/">Home  </Link>
                                  </li>
                            </ul>
                      </div>
