@@ -11,7 +11,7 @@ const MovieCard = ({ movie: {id, title, posterUrl,rate } }) => {
                 <h4 className="card-title">{title}</h4>
             </div>
             <Rate rating={rate}/>
-            <Link className="button" to={'/movie/'+id }  > Watch Movie </Link>
+            <Link className="button" to={'/movies/'+id }  > Watch Movie </Link>
         </div> 
     </div>  
   );
