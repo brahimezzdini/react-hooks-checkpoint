@@ -13,8 +13,8 @@ function App() {
       <div className="App">
        <div className="container">
        <Switch>
-         <Route exact path="/react-hooks-checkpoint/movies" component={Home} />
-         <Route exact path="/react-hooks-checkpoint/movies/:id" component={MovieDetails} />
+         <Route exact path="https://brahimezzdini.github.io/react-hooks-checkpoint/" component={Home} />
+         <Route exact path="https://brahimezzdini.github.io/react-hooks-checkpoint/movies/:id" component={MovieDetails} />
              <Route exact component={Home} />
        </Switch>
        </div>
